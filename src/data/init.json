@@ -1,0 +1,11 @@
+{
+    "input": {
+        "csv": "./data/table.csv",
+        "json": "./data/addit.json",
+        "encoding": "utf-8"
+    },
+    "output": {
+        "fname": "./data/output.txt",
+        "encoding": "utf-8"
+    }
+}
