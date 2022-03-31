@@ -32,4 +32,6 @@ this weather station), year in the following sort: day, year.
 ## Usage
 `<path_to_init>` - `.json` file that has all pathes to other files.
 
-> python3 main.py <path_to_init>
+```shell
+$ python3 main.py <path_to_init>
+```
